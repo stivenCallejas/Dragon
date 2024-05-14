@@ -1,0 +1,4 @@
+gh,false
+dfgh,false
+redes,false
+\dfg,false
